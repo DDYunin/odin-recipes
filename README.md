@@ -1,0 +1,1 @@
+This project is practice of base knowledge of html, git and english. There are a few recipes of dishes.
